@@ -8,18 +8,12 @@
 
 body {
     height: 100vh;
-    background: linear-gradient(120deg, #ffe53bd8, #ff2525da);
+    background: linear-gradient(180deg, #000, #686769);
     display: flex;
     align-items: center;
     justify-content: center;
     flex-direction: column;
 }
-
-#message {
-    font-size: 50px;
-    padding-bottom: 20px;
-}
-
 
 .watch {
     display: flex;
@@ -52,5 +46,5 @@ body {
 }
 
 .watch span.time {
-    font-size: 10px;
+    font-size: 15px;
 }
